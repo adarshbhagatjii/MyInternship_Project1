@@ -128,8 +128,8 @@ section{
     /* margin: 30px 30px 30px 30px; */
 }
 .row .col img {
-    width: 50%;
-/*      height: 400px; */
+    width: 500;
+     height: 350px;
     border-radius: 20px;
 
 }
